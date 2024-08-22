@@ -16,7 +16,7 @@ def calcular(numero1, numero2, operacion):
         case '^':
             # Operación potencia
             respuesta = numero1 ** numero2
-         case '%':
+         case ' %':
             # Operación modulo
             respuesta = numero1  % numero2
 
